@@ -4,6 +4,6 @@
 
 - 👀 I’m interested in Frontend & Backend
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Proton Native
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: Instagram - [@diego_rlb](https://www.instagram.com/diego_rlb/)
